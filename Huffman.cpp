@@ -450,7 +450,7 @@ void giai_nen(string input_path) {
 }
 
 int main() { 
-    nen_file("D:/HUST/2023.2/LTTT/Infomation-Theory-Small-Project-master/Infomation-Theory-Small-Project-master/test.txt");
+    nen_file("test.txt");
     giai_nen("D:/HUST/2023.2/LTTT/Infomation-Theory-Small-Project-master/Infomation-Theory-Small-Project-master/test_giainen.txt");
     
 }
